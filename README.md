@@ -27,3 +27,4 @@ Passionate about engineering scalable web platforms, cross-platform mobile apps,
 
 ### 🎓 Education
 - **B.E. in Computer Science & Engineering**
+
